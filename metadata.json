@@ -1,0 +1,6 @@
+{
+  "name": "Sürücü Ağı",
+  "description": "Onaylanmış şehir içi sürücüler için kapalı topluluk, yol güvenliği, anlık sohbet ve gelir-gider takip platformu.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
